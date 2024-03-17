@@ -28,7 +28,6 @@ Explanation: The only possible triplet sums up to 0.
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
 
 public class ThreeSum {
